@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: c56778761089fda4ab3615d3e2f9f463
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6666409072709761986
+    second: Cat Thing_0
+  - first:
+      213: 8114808281430077856
+    second: Cat Thing_1
+  - first:
+      213: -52901627388342711
+    second: Cat Thing_2
+  - first:
+      213: 6237323087067637229
+    second: Cat Thing_3
+  - first:
+      213: -5815262244961374809
+    second: Cat Thing_4
+  - first:
+      213: 6831114074254432593
+    second: Cat Thing_5
+  - first:
+      213: 787919684710029869
+    second: Cat Thing_6
+  - first:
+      213: -3829414726533603973
+    second: Cat Thing_7
+  - first:
+      213: 3345982001576219823
+    second: Cat Thing_8
+  - first:
+      213: 7767270634243947167
+    second: Cat Thing_9
+  - first:
+      213: 6988690625610014918
+    second: Cat Thing_10
+  - first:
+      213: 6029310322539137010
+    second: Cat Thing_11
+  - first:
+      213: -7157725133542302500
+    second: Cat Thing_12
+  - first:
+      213: -7045115392682732810
+    second: Cat Thing_13
+  - first:
+      213: -3952885041767837289
+    second: Cat Thing_14
+  - first:
+      213: -5474532561283401156
+    second: Cat Thing_15
+  - first:
+      213: 5392365122358779238
+    second: Cat Thing_16
+  - first:
+      213: -4800329829476125144
+    second: Cat Thing_17
+  - first:
+      213: 6772015798222573456
+    second: Cat Thing_18
+  - first:
+      213: -7866909645539452525
+    second: Cat Thing_19
+  - first:
+      213: -1763977401089142647
+    second: Cat Thing_20
+  - first:
+      213: -1310502212966117310
+    second: Cat Thing_21
+  - first:
+      213: 5557761158149473339
+    second: Cat Thing_22
+  - first:
+      213: 1574394245842512246
+    second: Cat Thing_23
+  - first:
+      213: -7417609801609839944
+    second: Cat Thing_24
+  - first:
+      213: -349322182775931471
+    second: Cat Thing_25
+  - first:
+      213: -6501799155412639218
+    second: Cat Thing_26
+  - first:
+      213: 1715279711063238447
+    second: Cat Thing_27
+  - first:
+      213: 192061901451724891
+    second: Cat Thing_28
+  - first:
+      213: 2538356159475915008
+    second: Cat Thing_29
+  - first:
+      213: 6763356345120842072
+    second: Cat Thing_30
+  - first:
+      213: 4976416291029082949
+    second: Cat Thing_31
+  - first:
+      213: -7923311793597885817
+    second: Cat Thing_32
+  - first:
+      213: 5108737724503075729
+    second: Cat Thing_33
+  - first:
+      213: -3422431325174520639
+    second: Cat Thing_34
+  - first:
+      213: -7299846022388525771
+    second: Cat Thing_35
+  - first:
+      213: 6000753278733227043
+    second: Cat Thing_36
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cat Thing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eebf8f75585634bad137ac3687f80d
+      internalID: -6666409072709761986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 224
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64eb247caec2ee846ad2ab4a3bbb87b7
+      internalID: 8114808281430077856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 224
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f86cf70a5d37e44ca5a9e859e4df3db
+      internalID: -52901627388342711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 224
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebca07df7f97ced459fa0df647ca3324
+      internalID: 6237323087067637229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 224
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2da246ae556d34aab96705074cb639
+      internalID: -5815262244961374809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fe7e4ac5548d54b986fcbfc21618a0
+      internalID: 6831114074254432593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 192
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8352ffcb31c9204ca4f7d3c99ab9c38
+      internalID: 787919684710029869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 192
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd7ad971566cc249aa396d61d2952fb
+      internalID: -3829414726533603973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 192
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65390696b26c7fa49bb557667410baed
+      internalID: 3345982001576219823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 192
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d29ef46dad09f4e82e02b2e240beed
+      internalID: 7767270634243947167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acef7f8c264a164e99d0e1cd82bfa9a
+      internalID: 6988690625610014918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 160
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fdaa7c7ae224c44b1c20bbf5c8ab3b
+      internalID: 6029310322539137010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 160
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a24b44e56b2cb47ab026a87acfa53a
+      internalID: -7157725133542302500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 160
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb0343bb7f74c34cad1afb314912b23
+      internalID: -7045115392682732810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 160
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2a1185a5c7ef846a18ee4b8e337dc2
+      internalID: -3952885041767837289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca41a90d36ee808458fc54e3cb6687f7
+      internalID: -5474532561283401156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 128
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d18cc9a3147ab4f83c2bcf6f243388
+      internalID: 5392365122358779238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 128
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a888af669d3556642b3b22fa1cbac2a0
+      internalID: -4800329829476125144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 128
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213cfc66e289a5447a4e5903338c9016
+      internalID: 6772015798222573456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 128
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110f56c801065d040ae0264e33cdcd24
+      internalID: -7866909645539452525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767a09ebcd5d0de4bb3f7b8cb3384047
+      internalID: -1763977401089142647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 96
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8521b9deb2f2c044b86aa15c23023faf
+      internalID: -1310502212966117310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 96
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c753cd70f028124aae2af35b3261446
+      internalID: 5557761158149473339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 96
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597b8cd5fc5ae574490799c416df728e
+      internalID: 1574394245842512246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 96
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821ed773fdcaefd4481c1bb82e86deff
+      internalID: -7417609801609839944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c22306343e22a44859e69dc03e2b68
+      internalID: -349322182775931471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 64
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f30acf076d5e245bdd8643b954da8c
+      internalID: -6501799155412639218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 64
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e7f09d0a5faed46966f0130a60dc9c
+      internalID: 1715279711063238447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 64
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2127c09fa93412448a494f1466c1ba02
+      internalID: 192061901451724891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 64
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03faadd90fca034391e4c2bd4df9ae6
+      internalID: 2538356159475915008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827dcf4882b921f4baa73003a6819183
+      internalID: 6763356345120842072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 32
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffccff0401a4d644a946d1a9fe9da676
+      internalID: 4976416291029082949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 32
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a4a5ed1c7061c488236ba6c03d3f7e
+      internalID: -7923311793597885817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 32
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bd5d8e067f9b840805c0d712280612
+      internalID: 5108737724503075729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 32
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc345e3da70dc3e48b85e17224ac64ff
+      internalID: -3422431325174520639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871dd9fc1bbbf3d40b63315bc6d07336
+      internalID: -7299846022388525771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Thing_36
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4787ea8ca1e7f49b93318430426a8c
+      internalID: 6000753278733227043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
